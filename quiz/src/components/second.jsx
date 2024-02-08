@@ -1,21 +1,3 @@
-// import { Component } from "react";
-// class PageSecond extends Component{
-//     constructor(){
-//         super()
-//     }
-//     render(){
-//         return(
-//             <div className="secDiv">
-//                 <div className="inside">
-//                 <h1>Question</h1>
-//                 <h4>1 of 15</h4>
-//                 </div>
-//             </div>
-//         )
-//     }
-// }
-// export default PageSecond
-
 import {Component} from "react";
 class Quizpage extends Component{
  constructor(){
