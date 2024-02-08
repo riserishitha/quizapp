@@ -1,9 +1,4 @@
-import {Component} from "react";
-class Quizpage extends Component{
- constructor(){
-    super()
- }
- render(){
+function PageSecond(){
     return(
         <div className="main"> 
             <h1>Question</h1>
@@ -25,5 +20,5 @@ class Quizpage extends Component{
         </div>
     )
  }
-}
-export default Quizpage
+
+export default PageSecond;
